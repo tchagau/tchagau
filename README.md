@@ -1,6 +1,8 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](#)
 
-### Hello there, I'm tchagau 👋 a Software engineer, Data science and Web programming Enthusiast. It's nice to meet you.
+### Hello there 👋,
+
+**I'm Gauthier** a Software engineer, Data science and Web programming Enthusiast. It's nice to meet you.
 
 <!--
 **tchagau/tchagau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
