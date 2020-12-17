@@ -5,7 +5,7 @@
 **I'm Gauthier** a Software engineer, Data science and Web programming Enthusiast. It's nice to meet you.
 
 <!--
-**tchagau/tchagau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tchagau/tchagau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <p align="center">
 <br>
@@ -41,3 +41,6 @@ Here are a few things about me:
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+---
+
+👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
