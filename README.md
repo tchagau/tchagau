@@ -1,6 +1,6 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](#)
 
-### Hello there 👋,
+### Hello there 👋
 
 **I'm Gauthier** a Software engineer, Data science and Web programming Enthusiast. It's nice to meet you.
 
@@ -8,9 +8,9 @@
 **tchagau/tchagau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <p align="center">
-<br>
 
-<a href="www.linkedin.com/in/anges-gauthier-tchalim/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/anges-gauthier-tchalim/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  
 </p>
 
 <br>
@@ -41,6 +41,9 @@ Here are a few things about me:
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
----
+
+<br>
+
+[linkedin]:https://www.linkedin.com/in/anges-gauthier-tchalim/
 
 👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
